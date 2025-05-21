@@ -3,7 +3,7 @@ import mediapipe as mp
 import time
 import math
 
-# 얼굴/눈 탐지 모델 준비
+# 얼굴/눈 탐지 모델 준비 커밋테스트
 mp_face_detection = mp.solutions.face_detection
 mp_face_mesh = mp.solutions.face_mesh
 mp_drawing = mp.solutions.drawing_utils
